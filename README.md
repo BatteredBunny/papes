@@ -1,7 +1,7 @@
 # Papes
 Repo of animated wallpapers i found using a search engine
 
-# Using with swww and hypland on NixOS
+# Using with swww and hyprland on NixOS
 
 ```nix
 # flake.nix
