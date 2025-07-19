@@ -17,7 +17,7 @@ inputs = {
 # home.nix
 wayland.windowManager.hyprland = {
   settings.exec-once = [
-    "swww img $(find ${inputs.papes}/papes | shuf -n1)" # Display random wallpaper from wallpapers
+    "swww img $(find ${inputs.papes}/images | shuf -n1)" # Display random wallpaper from wallpapers
   ];
 };
 ```
